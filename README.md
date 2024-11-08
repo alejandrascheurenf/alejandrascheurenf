@@ -1,4 +1,4 @@
-![Banner Image]([/Users/alejandrascheuren/Downloads/AlejandraScheurenCanvaImage.png](https://github.com/alejandrascheurenf/alejandrascheurenf/blob/main/AlejandraScheurenCanvaImage.png?raw=true))
+![Banner Image](https://github.com/alejandrascheurenf/alejandrascheurenf/blob/main/AlejandraScheurenCanvaImage.png?raw=true)
 
 
 Hello, I'm Alejandra Scheuren, a Data Analyst with expertise in data visualization, business intelligence, and program evaluation.
