@@ -14,7 +14,7 @@ Welcome to my portfolio, where I showcase my [projects](#).
 
 ## 🔧 Tools
 
-- **Languages**: Python, SQL
+- **Languages**: Python, SQL, R
 - **Database**: MySQL, PostgreSQL
 - **Visualization**: Power BI, Tableau, Excel
 
