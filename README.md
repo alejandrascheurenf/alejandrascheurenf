@@ -1,7 +1,7 @@
 ![Banner Image](https://github.com/alejandrascheurenf/alejandrascheurenf/blob/main/AlejandraScheurenCanvaImage.png?raw=true)
 
 
-Hello, I'm Alejandra Scheuren, a Data Analyst with expertise in data visualization, business intelligence, and program evaluation.
+Hello, I'm Alejandra Scheuren, a Data Analyst with expertise in data visualization, business intelligence, and program evaluation. Some of my skills include:
 
 - 🔍 **Analyzing data** to uncover insights and support data-driven decision-making.
 - 📊 **Designing and managing dashboards** in Power BI to present real-time analytics and insights.
