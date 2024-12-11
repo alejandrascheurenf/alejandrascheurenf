@@ -10,7 +10,9 @@ Hello, I'm Alejandra Scheuren, a Data Analyst with expertise in data visualizati
 
 ## 📁 Projects
 
-Welcome to my portfolio, where I showcase my [projects](#).
+Welcome to my portfolio, where I showcase my projects:
+- [Healthcare Data Analysis Project](https://github.com/alejandrascheurenf/healthcare_data_analysis.ipynb)
+  *Explored healthcare data using Python, focusing on demographics, medical conditions, and billing trends.*
 
 ## 🔧 Tools
 
